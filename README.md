@@ -1,4 +1,4 @@
-# Linux Lab Assignment (Modules 1–4)
+# Linux Lab Assignment 
 
 This repository contains my Linux lab assignment organized into five questions.
 
