@@ -120,3 +120,4 @@ The storage devices and mounted file systems were successfully identified. Disk 
 Summary
 
 The storage assessment successfully identified the available storage devices, mounted file systems, disk usage, and inode utilization. The collected information provides an overview of the system's storage health and can assist in planning future storage requirements.
+
